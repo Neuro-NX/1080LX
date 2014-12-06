@@ -1,4 +1,12 @@
-﻿[B]3.0.1-RC[/B]
+﻿[B]3.1.0-beta[/B]
+• Removed wunderground requirements for fanart weather (WeatherUnderground)
+• Replaced with OpenWeatherMap Extended (now included as required for the skin)
+• Added requirement to skin xml
+• Fixed labels
+• This fully restores the extended/detailed weather functionality in 1080XF/Xperience1080
+• Basic support ONLY for Yahoo! Weather and other weather providers (as before without/with limited fanart)
+
+[B]3.0.1-RC[/B]
 • Fixed Banner View (Poster) Unwatched count on selected
 • Fixed TV Rating on MediaGuide
 • Fixed Movie Rating on MediaGuide
