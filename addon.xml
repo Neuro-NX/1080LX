@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="skin.Xperience1080" version="3.2.1-RC" name="Xperience1080" provider-name="Piers, `Black, xhaggi">
+<addon id="skin.Xperience1080" version="3.2.2" name="Xperience1080" provider-name="Piers, `Black, xhaggi">
 	<requires>
 		<import addon="xbmc.gui" version="5.3.0" />
 		<import addon="service.skin.widgets" version="0.0.27" />
