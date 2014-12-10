@@ -1,4 +1,10 @@
-﻿[B]3.2.1-RC[/B]
+﻿[B]3.2.3[/B]
+• merge PVR changes
+
+[B]3.2.2[/B]
+• merge PVR changes
+
+[B]3.2.1-RC[/B]
 • Fixed Music list Year
 • Fixed Music list Rating
 • Fixed Music list Track Time
