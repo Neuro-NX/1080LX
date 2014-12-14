@@ -1,8 +1,39 @@
-﻿[B]3.2.3[/B]
-• merge PVR changes
+﻿[B]3.4.0[/B]
+• [Updated] service.skin.widgets
+• [Updated] script.artwork.downloader
+• [Updated] script.tv.show.next.aired
+• [Updated] script.globalsearch
+• [Updated] script.favourites
+• [Updated] script.artistslideshow
+• [Updated] script.videolanguage
+• Submission to official Kodi repo.
 
-[B]3.2.2[/B]
-• merge PVR changes
+[B]3.3.8[/B]
+• Updated globalsearch version
+• Further testing
+• Removal of TVTunes add-on requirement
+
+[B]3.3.8[/B]
+• Revert globalsearch, testing
+
+[B]3.3.6[/B]
+• Revert addon information to include language strings
+
+[B]3.3.3[/B]
+• [Updated] script.tv.show.next.aired
+• [Updated] script.globalsearch
+• [Updated] script.favourites
+• [Updated] script.artistslideshow
+
+[B]3.3.2[/B]
+• [Updated] script.artwork.downloader
+
+[B]3.3.1[/B]
+• [Updated] service.skin.widgets
+
+[B]3.3.0[/B]
+• Fixed alignment of two Infolist labels
+• Started testing for repo submission
 
 [B]3.2.1-RC[/B]
 • Fixed Music list Year
