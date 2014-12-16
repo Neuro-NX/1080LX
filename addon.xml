@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<addon id="skin.Xperience1080" version="3.4.2" name="Xperience1080" provider-name="Piers, xhaggi, Black">
+﻿<addon id="skin.xperience1080" version="3.4.28" name="Xperience1080" provider-name="Piers|xhaggi|Black">
 	<requires>
 		<import addon="xbmc.gui" version="5.3.0" />
 		<import addon="service.skin.widgets" version="0.0.29" />
@@ -31,7 +30,7 @@
         <summary lang="ru">Xperience1080 обновляется Коди 14.x Пирс и xhaggi</summary>
         <description lang="de">Xperience1080 liefert Ihnen eine Haut mit gesundem Menschenverstand Home-Bildschirm, einem Schwerpunkt auf grafische Qualität, flüssige Animationen und sehr gut integrierte Funktionen / Add-ons.</description>
         <description lang="el">Xperience1080 σας προσφέρει ένα δέρμα με αρχική οθόνη κοινή λογική, έμφαση στην ποιότητα γραφικών, ομαλή κίνηση και πολύ καλά ενσωματωμένες λειτουργίες / add-ons.</description>
-        <description lang="en">Xperience1080 delivers you a skin with common sense home screen, a focus on graphical quality, smooth animations and very well integrated functions/add-ons.</description>
+        <description lang="en">Xperience1080 delivers a common sense home screen, focus on graphical quality, smooth animations and very well integrated functions/add-ons.</description>
         <description lang="es">Xperience1080 le entrega una piel con la pantalla de inicio de sentido común, un enfoque en la calidad gráfica, animaciones suaves y funciones / complementos muy bien integrados.</description>
         <description lang="hu">Xperience1080 biztosítja ezt a bőrt a józan ész kezdőképernyőn, amelynek középpontjában a grafikai minőség, gördülékeny animációk, és nagyon jól integrált funkciók / kiegészítőket.</description>
         <description lang="it">Xperience1080 si offre una pelle con schermata iniziale di buon senso, un focus sulla qualità grafica, animazioni fluide e molto ben integrati funzioni / add-ons.</description>
